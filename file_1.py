@@ -1,0 +1,7 @@
+f = open("example.txt","a")
+# text = f.read(10)
+# print(text)
+# d = f.readline()
+# print(d)
+f.write(" i can do anything with you ")
+f.close()
